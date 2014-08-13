@@ -1,0 +1,53 @@
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	body,input,textarea,select {
+		font-size: 13pt;
+	}
+
+	.container > .container {
+		width: 100% !important;
+	}
+	
+	/* Main */
+		
+		.main {
+		}
+		
+			.main.style2 {
+			}
+			
+				.main.style2 .content {
+					width: 25%;
+				}
+			
+					.main.style2.right .content {
+						left: 40%;
+					}
+
+				.main.style2.inactive {
+				}
+
+					.main.style2.inactive .content {
+					}
+
+						.main.style2.inactive.left .content {
+							left: -60%;
+						}
+						
+/*********************************************************************************/
+/* Footer                                                                        */
+/*********************************************************************************/
+	
+	footer p {
+	font-size: .80em;
+	font-style: italic;
+	font-weight: lighter;
+    position: relative;
+    width: 35%;
+    left: 35%;
+}
+
+
+		
