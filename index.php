@@ -13,8 +13,8 @@
 	<head>
 		<title>Ever Green Garden Designs</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
+		<meta name="description" content="We are professional garden designers that offering you some beautiful designs and construction services, We are able to do a number of maintenance works available to keep your newly created garden looking beautiful,Create stylish landscapes, follow garden trends, and get a curated collection of tools" />
+		<meta name="keywords" content="garden design,landscape design,garden decoration,garden photos" />
 		<script src="js/jquery.min.js"></script> 
 		<script src="js/jquery.poptrox.min.js"></script> 
 		<script src="js/skel.min.js"></script> 
