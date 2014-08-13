@@ -155,12 +155,11 @@
 					<hr>
 				</header>
 				<div id="gallery-wrapper">
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg"><img src="images/gallery/thumbs/11.jpg" alt="An apocalyptic Earth." /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg"><img src="images/gallery/thumbs/22.jpg" alt="An old, vintage poster." /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg"><img src="images/gallery/thumbs/11.jpg" alt="An apocalyptic Earth." /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg"><img src="images/gallery/thumbs/22.jpg" alt="An old, vintage poster." /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg"><img src="images/gallery/thumbs/11.jpg" alt="An old, vintage poster." /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg"><img src="images/gallery/thumbs/11.jpg" alt="An apocalyptic Earth." /></a>
+					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
+					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
+					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
+					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="5"><img src="images/gallery/thumbs/11.jpg" alt="5" /></a>
+					
 				</div>
 			</div>
 		</section>
@@ -203,18 +202,15 @@
 		<!-- Footer -->
 		<footer id="footer">
 			<!-- Share -->
-						<p>
+			<p>
 			<!-- Go to www.addthis.com/dashboard to generate a new set of buttons -->
-<a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" border="0" alt="Facebook"/></a>
-<a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" border="0" alt="Twitter"/></a>
-<a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png" border="0" alt="Google+"/></a>
-<a href="https://api.addthis.com/oexchange/0.8/forward/pinterest/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/pinterest.png" border="0" alt="Pinterest"/></a>
-<a href="https://api.addthis.com/oexchange/0.8/forward/tumblr/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/tumblr.png" border="0" alt="Tumblr"/></a>
-<a href="https://api.addthis.com/oexchange/0.8/forward/myspace/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/myspace.png" border="0" alt="Myspace"/></a>
-<a href="https://api.addthis.com/oexchange/0.8/forward/reddit/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/reddit.png" border="0" alt="Reddit"/></a>
-<a href="https://api.addthis.com/oexchange/0.8/forward/stumbleupon/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/stumbleupon.png" border="0" alt="StumbleUpon"/></a>
-
-		<p>
+<a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="images/share/Facebook-icon.png" border="0" alt="Facebook"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="images/share/Twitter-icon.png" border="0" alt="Twitter" border="0" alt="Twitter"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="images/share/GooglePlus-icon.png" border="0" alt="Google+"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/pinterest/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="images/share/Pinterest-icon.png" border="0" alt="Pinterest"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/tumblr/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="images/share/Tumblr-icon.png" border="0" alt="Tumblr"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/stumbleupon/offer?pco=tbxnj-1.0&url=http%3A%2F%2Fevergreendesigns.in%2F&pubid=ra-53e36c0331a7dacc&ct=1" target="_blank"><img src="images/share/StumbleUpon-icon.png" border="0" alt="StumbleUpon"/></a>
+			</p>
 			<!-- Menu -->
 			<div class="menu">
 				<p>Developed By:<a href = "https://twitter.com/allow1234me" target="_blank">Renjith VR </a><p>
