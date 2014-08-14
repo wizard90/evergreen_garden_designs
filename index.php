@@ -152,15 +152,17 @@
 					<p>We can give some important instructions to our clients through the process to meet their impression, maintenance and budget needs.</p>
 					<hr>
 				</header>
-				<div id="gallery-wrapper">
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
-				</div>
-				<div id="gallery-wrapper">
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
+				<div id="images">
+					<div id="gallery-wrapper">
+						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
+						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
+						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
+					</div>
+					<div id="gallery-wrapper">
+						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
+						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
+						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
+					</div>
 				</div>
 			</div>
 		</section>

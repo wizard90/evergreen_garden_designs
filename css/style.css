@@ -113,7 +113,7 @@ font-weight:normal;font-style:normal}
 	font-weight: lighter;
     position: relative;
     width: 25%;
-    left: 40%;
+    left: 42%;
 }
 
 
@@ -445,7 +445,7 @@ background-color: #98c593;
 				.main.style3 .content {
 					text-align: justify;
 					position: relative;
-					
+					left:0;
 
 				}
 						

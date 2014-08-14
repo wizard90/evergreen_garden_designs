@@ -85,11 +85,16 @@
 
 			.main.style3 {
 				text-align: center;
-				padding: 3em 10px 3em 10px;
+				padding-left: -10px;
 				
 			}
 			.main.style3.content{
-				text-align: center;
+				text-align:center;
+				position: relative;
+			}
+			#images{
+				position: relative;
+				left:-33px;
 			}
 
 /*********************************************************************************/
@@ -126,4 +131,3 @@
 		padding-bottom: 170px;
 	}
 
-	
