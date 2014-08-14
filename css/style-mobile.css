@@ -1,7 +1,6 @@
 /*********************************************************************************/
 /* Basic                                                                         */
 /*********************************************************************************/
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
 
 	body {
 		min-width: 320px;
@@ -58,7 +57,7 @@
 
 				.main.style2 .content {
 					width: 100%;
-					left: 0% !important;
+					left: 0 !important;
 					text-align: center;
 				}
 				
@@ -121,6 +120,10 @@
 	
 	#nav {
 		display: none;
+	}
+	#home{
+		padding-top: 125px;
+		padding-bottom: 160px;
 	}
 
 	

@@ -112,10 +112,9 @@
         			<h2>ABOUT US</h2>
         		</header> 
 	        	<p>
-	        		We are professional garden designers that offering you some beautiful designs and construction services. 
-	        		We are really happy at creating personal spaces that reflect the sensibilities and dreams of our clients.
+	        		We are professional garden designers from <b>Thrissur,Kerala</b> that offering you some beautiful designs and construction services.We are really happy at creating personal spaces that reflect the sensibilities and dreams of our clients.
 	        		We offer the complete gardening work that look great and make our customers happy.
-	    	        We are able to do a number of maintenance works available to keep your newly created garden looking beautiful.
+	    	        Also we are able to do a number of maintenance works available to keep your newly created garden looking beautiful.
 	    	        if you want to create a beautiful garden,we promise! we can create an inspirational garden.
 	        	</p>
        		 </div>             
@@ -133,7 +132,6 @@
 					<li class="buttons grow-rotate">Commercial Tree Services</li>
 					<li class="buttons grow-rotate">Tree Removal</li>
 					<li class="buttons grow-rotate">Pruning</li>
-					<li class="buttons grow-rotate">Weight Reductions</li>
 					<li class="buttons grow-rotate">Weight Reductions</li>
 					<li class="buttons grow-rotate">Thinning</li>
 					<li class="buttons grow-rotate">Dead Wooding</li>
@@ -158,8 +156,11 @@
 					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
 					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
 					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
-					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="5"><img src="images/gallery/thumbs/11.jpg" alt="5" /></a>
-					
+				</div>
+				<div id="gallery-wrapper">
+					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
+					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
+					<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
 				</div>
 			</div>
 		</section>
@@ -173,17 +174,20 @@
 				</header>
 				
 				<div class="error" style="color:#F91212;position:relative;left:30%;">
-					<?php if(isset($error)) { echo  $error; } ?>					 
+										 
 				</div>
 				
 				<div class="box container small">
 					<form method="POST" action="mail.php" >
 						<fieldset>
 							<div class="row half">
+								<?php if(isset($error_name)) { echo  $error_name; } ?>
 								<div class="6u"><input oninput="validateName(this)"  required type="text" name="name" placeholder="Your Name" value="<?php if(isset($_POST['name'])) { echo htmlentities($_POST['name'], ENT_QUOTES); } ?>"/></div>
+								<?php if(isset($error_email)) { echo  $error_email; } ?>
 								<div class="6u"><input required type="email" name="email"  placeholder="Your Email" value="<?php if(isset($_POST['email'])) { echo htmlentities($_POST['email'], ENT_QUOTES); } ?>" /></div>
 							</div>
 							<div class="row half">
+								<?php if(isset($error_message)) { echo  $error_message; } ?>
 								<div class="12u"><textarea oninput="validateMessage(this)" required type="textarea" name="message" placeholder="Your Message(Please Include Your Contact Number)" rows="6"><?php if(isset($_POST['message'])) { echo htmlentities($_POST['message']); } ?></textarea></div>
 							</div>
 						</fieldset>

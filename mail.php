@@ -20,7 +20,7 @@ if(isset($_POST['submit']))
 	}
 	else
 	{
-		$error = 'Your message must be greater than 20 characters!';	
+		$error_message = 'Your message must be greater than 20 characters!';	
 	}
 
 	if(isset($_POST['email']) && strlen(trim($_POST['email'])) > 0)
@@ -37,7 +37,7 @@ if(isset($_POST['submit']))
 	}
 	else
 	{
-		$error = 'Please Enter An Email';
+		$error_email = 'Please Enter An Email';
 	}
 	
 	if(isset($_POST['name']) && strlen(trim($_POST['name'])) > 0) 
@@ -46,15 +46,15 @@ if(isset($_POST['submit']))
 	}
 	else
 	{
-		$error = 'Please Enter Your  Name';
+		$error_name = 'Please Enter Your  Name';
 	}
 
 	if(!isset($error))
 	{
 		$to = 'gardendesigns4evergreen@gmail.com';
 		$subject = 'Ever Green Garden Designs';
-		$headers = $name . '<' . $email . ">\r\n".
-		    'Reply-To:' . $email . "\r\n";
+		$headers = $name .' ' . '<' . $email . ">\r\n";
+		   
 		mail($to, $subject, $message, $headers);
 		header('location:ack.php');
 	}
