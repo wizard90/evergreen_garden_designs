@@ -11,17 +11,21 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Ever Green Garden Designs - Free Estimates | Fully Insured</title>
+		<title>Ever Green Garden Designs - Garden setting|Landscaping|designing </title>
+
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta itemprop="keywords" name="keywords" content=" garden setting in mannuthy,thrissur,kerala,india,garden designs mannuthy,garden designs in mannuthy,evergreen garden designs in mannuthy, evergreen garden designs in thrissur, evergreen garden designs thrissur,evergreen garden designs in india, evergreen garden designs india,lawn care,landscaping,Garden developers,garden workers,garden work thrissur,garden construction,flower,pruning,plants,dead wooding,garden pond work,plant nursery,landscaping services,gardening services,commercial tree services,residential tree services,hospital garden,school garden,house garden,home,park" />
+		<meta itemprop="description" name="description" content="we are the professional landscape and garden workers from mannuthy,Thrissur,Kerala that offering you beautiful designs and landscape works" />
 		<meta name="google-site-verification" content="S64yjRHQvkUNOTOxvBidRCGjh9ZiMWrUt6cw1Zhaidw" />
 		<meta name="msvalidate.01" content="80DC8069FE1CC88660D0A30B5E7C2A91" />
-		<meta itemprop="name" content="evergreen garden designs(thrissur,kerala)" />
-		<meta itemprop="url" content="http://evergreendesigns.in/" />
-		<meta itemprop="url" content="http://www.evergreendesigns.in/">
-		<meta itemprop="description" name="description" content="we are the professional landscape and garden workers from mannuthy,Thrissur,Kerala that offering you beautiful designs and landscape works" />
-		<meta name="keywords" content=" garden setting mannuthy,grass garden,evergreen designs,Evergreen garden designs kerala,Garden developers,garden designers,garden workers,garden work thrissur,garden construction" />
-		<meta name="keywords" contents="professional garden designs,landscaping,pruning,flowers,plants,herbal,dead wooding,garden tiding,pruning,stump removal services,garden pond work,dead wooding,commercial tree services,residential tree services" />
-		<meta name="keywords" content="mannuthy garden works,garden company,landscaping services,gardening services,landscaping company,pond services" />
+		<meta property="og:title" content="evergreendesigns.in/" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.evergreendesigns.in/" />
+		<meta property="og:image" content="http://www.evergreendesigns.in/images/logo.png" />
+		<meta property="og:description" content="evergreendesigns.in" />
+		
+		
+		
 		<script src="js/jquery.min.js"></script> 
 		<script src="js/jquery.poptrox.min.js"></script> 
 		<script src="js/skel.min.js"></script> 
@@ -115,7 +119,7 @@
 		<section id="home" class="main style1 dark fullscreen">
 			<div class="content container small" itemscope itemtype="http://schema.org/Organization">
 				<header>
-					<h2><span itemprop="name">EVER GREEN <br /> GARDEN DESIGNS</span></h2>
+					<h2><span property="title" itemprop="name">EVER GREEN <br /> GARDEN DESIGNS</span></h2>
 					<h3>Free Estimates | Fully Insured</h3>
 				</header>
 			</div>
@@ -128,7 +132,7 @@
         			<h2>ABOUT US</h2>
         		</header> 
 	        	<p>
-	        		We are professional <span itemprop ="category(garden design)">garden designers</span> from <b><span itemprop="address" itemscope
+	        		We are professional <span itemprop ="category(garden design)">garden designers</span> & <span itemprop ="category(landscape)">landscape workers</span> from <b><span itemprop="address" itemscope
       itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Thrissur</span>,<span itemprop="addressRegion">Kerala</span></span></b> that offering you some beautiful designs and construction services.We are really happy at creating personal spaces that reflect the sensibilities and dreams of our clients.
 	        		We offer the complete <span itemprop="creativework">gardening work</span>that look great and make our customers happy.
 	    	        Also we are able to do a number of maintenance works available to keep your newly created garden looking beautiful.
@@ -172,9 +176,9 @@
 				</header>
 				<div id="images">
 					<div id="gallery-wrapper">
-						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
-						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
-						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
+						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="landscape1" /></a>
+						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="landscape2" /></a>
+						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="landscape3" /></a>
 					</div>
 					<div id="gallery-wrapper">
 						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
