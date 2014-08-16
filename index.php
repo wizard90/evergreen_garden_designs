@@ -11,15 +11,31 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Ever Green Garden Designs</title>
+		<title>Ever Green Garden Designs - Free Estimates | Fully Insured</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="We are professional garden designers that offering you some beautiful designs and construction services, We are able to do a number of maintenance works available to keep your newly created garden looking beautiful,Create stylish landscapes, follow garden trends, and get a curated collection of tools" />
-		<meta name="keywords" content="garden design,landscape design,garden decoration,garden photos" />
+		<meta name="google-site-verification" content="S64yjRHQvkUNOTOxvBidRCGjh9ZiMWrUt6cw1Zhaidw" />
+		<meta name="msvalidate.01" content="80DC8069FE1CC88660D0A30B5E7C2A91" />
+		<meta itemprop="name" content="evergreen garden designs(thrissur,kerala)">
+		<meta itemprop="url" content="http://evergreendesigns.in/">
+		<meta itemprop="url" content="http://www.evergreendesigns.in/">
+		<meta itemprop="description" name="description" content="we are the professional landscape and garden workers from mannuthy,Thrissur,Kerala that offering you beautiful designs and landscape works" />
+		<meta name="keywords" content=" garden setting mannuthy,grass garden,evergreen designs,Evergreen garden designs kerala,Garden developers,garden designers,garden workers,garden work thrissur,garden construction" />
+		<meta name="keywords" contents="professional garden designs,landscaping,pruning,flowers,plants,herbal,dead wooding,garden tiding,pruning,stump removal services,garden pond work,dead wooding,commercial tree services,residential tree services" />
+		<meta name="keywords" content="mannuthy garden works,garden company,landscaping services,gardening services,landscaping company,pond services">
 		<script src="js/jquery.min.js"></script> 
 		<script src="js/jquery.poptrox.min.js"></script> 
 		<script src="js/skel.min.js"></script> 
 		<script src="js/init.js"></script>
 		<script src="js/jquery.galpop.js"></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-53883201-1', 'auto');
+		  ga('send', 'pageview');
+		</script>
 		<script type="text/javascript">
 		function validateMessage(input)
 		{
@@ -66,12 +82,12 @@
 		</script>
 
 		<link rel="stylesheet" href="css/galpop.css" />	
-		<link rel= "icon" media="all" type="file content-type" href="images/favicon.ico" />
-		<link rel= "icon" media="all" type="image/vnd.microsoft.icon" href="images/favicon.ico" />
+		<link rel= "icon" media="all" type="file content-type" href="http://evergreendesigns.in/images/favicon.ico" />
+		<link rel= "icon" media="all" type="image/vnd.microsoft.icon" href="http://evergreendesigns.in/images/favicon.ico" />
 		
 		<noscript>	
-			<link rel="stylesheet" href="css/skel-noscript.css" />
-			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="http://evergreendesigns.in/css/skel-noscript.css" />
+			<link rel="stylesheet" href="http://evergreendesigns.in/css/style.css" />
 		</noscript>
 	</head>
 	
@@ -81,7 +97,7 @@
 		<header id="header">
 			
 			<!-- Logo -->
-			<h1 id="logo"><a href="#home"><img src="./images/logo.png" /></a></h1> 		
+			<h1 id="logo"><a href="http://evergreendesigns.in/" itemprop="url"><img itemprop="logo"src="http://evergreendesigns.in/images/logo.png"/></a></h1> 		
 			
 			<!-- Nav -->
 				<nav id="nav">
@@ -97,9 +113,9 @@
 		
 		<!-- Home -->
 		<section id="home" class="main style1 dark fullscreen">
-			<div class="content container small">
+			<div class="content container small" itemscope itemtype="http://schema.org/Organization">
 				<header>
-					<h2>EVER GREEN <br /> GARDEN DESIGNS</h2>
+					<h2><span itemprop="name">EVER GREEN <br /> GARDEN DESIGNS</span></h2>
 					<h3>Free Estimates | Fully Insured</h3>
 				</header>
 			</div>
@@ -107,13 +123,14 @@
        
         <!-- Secondpage -->             
         <section id="aboutus" class="main style2 right dark fullscreen">
-        	<div class="content box style2">
+        	<div class="content box style2" itemprop="description">
         		<header>
         			<h2>ABOUT US</h2>
         		</header> 
 	        	<p>
-	        		We are professional garden designers from <b>Thrissur,Kerala</b> that offering you some beautiful designs and construction services.We are really happy at creating personal spaces that reflect the sensibilities and dreams of our clients.
-	        		We offer the complete gardening work that look great and make our customers happy.
+	        		We are professional <span itemprop ="category(garden design)">garden designers</span> from <b><span itemprop="address" itemscope
+      itemtype="http://schema.org/PostalAddress"><span itemprop="addressLocality">Thrissur</span>,<span itemprop="addressRegion">Kerala</span></span></b> that offering you some beautiful designs and construction services.We are really happy at creating personal spaces that reflect the sensibilities and dreams of our clients.
+	        		We offer the complete <span itemprop="creativework">gardening work</span>that look great and make our customers happy.
 	    	        Also we are able to do a number of maintenance works available to keep your newly created garden looking beautiful.
 	    	        if you want to create a beautiful garden,we promise! we can create an inspirational garden.
 	        	</p>
@@ -122,7 +139,7 @@
 		
 		<!--Thirdpage  -->
 		<section id="services" class="main style2a left dark fullscreen">
-			<div class="content box style2a">
+			<div class="content box style2a" itemprop="work">
 				<header>
 					<h2>OUR SERVICES</h2>
 				</header>
@@ -132,7 +149,7 @@
 					<li class="buttons grow-rotate">Commercial Tree Services</li>
 					<li class="buttons grow-rotate">Tree Removal</li>
 					<li class="buttons grow-rotate">Pruning</li>
-					<li class="buttons grow-rotate">Weight Reductions</li>
+					<li class="buttons grow-rotate">Weight Reduction</li>
 					<li class="buttons grow-rotate">Thinning</li>
 					<li class="buttons grow-rotate">Dead Wooding</li>
 					<li class="buttons grow-rotate">Stump Removal</li>
@@ -140,6 +157,7 @@
 					<li class="buttons grow-rotate">Clearing Lawn Care</li>
 					<li class="buttons grow-rotate">Weed Control</li>
 					<li class="buttons grow-rotate">Garden Tiding</li>
+					<li class="buttons grow-rotate">Garden Pond Work</li>
 				</ul>
 			</div>
 		</section>
@@ -154,9 +172,9 @@
 				</header>
 				<div id="images">
 					<div id="gallery-wrapper">
-						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
-						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
-						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
+						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
+						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/22.jpg" alt="2"><img src="images/gallery/thumbs/22.jpg" alt="2" /></a>
+						<a itemprop="image" class="galpop-multiple" data-galpop-group="multiple" href="http://evergreendesigns.in/images/gallery/large/11.jpg" alt="3"><img src="images/gallery/thumbs/11.jpg" alt="3" /></a>
 					</div>
 					<div id="gallery-wrapper">
 						<a class="galpop-multiple" data-galpop-group="multiple" href="images/gallery/large/11.jpg" alt="1"><img src="images/gallery/thumbs/11.jpg" alt="1" /></a>
@@ -172,7 +190,7 @@
 			<div class="content container">
 				<header>
 					<h2>CONTACT US</h2>
-					<p>For estimates on your gardening dreams and for other informations,please contact us by sending a message from here! <br />or Call Us: <b> &nbsp+91-8086675118 or +91-9961995446 </b>.</p>
+					<p>For estimates on your gardening dreams and for the cost informations,please contact us by sending a message from here! <br />or Call Us: <b> &nbsp <span itemprop="telephone">+91-8086675118</span> or <span itemprop="telephone">+91-9961995446</span> </b>.</p>
 				</header>
 				
 				<div class="error" style="color:#F91212;position:relative;left:30%;">

@@ -51,7 +51,7 @@ if(isset($_POST['submit']))
 
 	if(!isset($error))
 	{
-		$to = 'gardendesigns4evergreen@gmail.com';
+		$to = 'saneesh@evergreendesigns.in';
 		$subject = 'Ever Green Garden Designs';
 		$headers = $name .' ' . '<' . $email . ">\r\n";
 		   
