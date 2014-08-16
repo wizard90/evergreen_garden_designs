@@ -15,13 +15,13 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="google-site-verification" content="S64yjRHQvkUNOTOxvBidRCGjh9ZiMWrUt6cw1Zhaidw" />
 		<meta name="msvalidate.01" content="80DC8069FE1CC88660D0A30B5E7C2A91" />
-		<meta itemprop="name" content="evergreen garden designs(thrissur,kerala)">
-		<meta itemprop="url" content="http://evergreendesigns.in/">
+		<meta itemprop="name" content="evergreen garden designs(thrissur,kerala)" />
+		<meta itemprop="url" content="http://evergreendesigns.in/" />
 		<meta itemprop="url" content="http://www.evergreendesigns.in/">
 		<meta itemprop="description" name="description" content="we are the professional landscape and garden workers from mannuthy,Thrissur,Kerala that offering you beautiful designs and landscape works" />
 		<meta name="keywords" content=" garden setting mannuthy,grass garden,evergreen designs,Evergreen garden designs kerala,Garden developers,garden designers,garden workers,garden work thrissur,garden construction" />
 		<meta name="keywords" contents="professional garden designs,landscaping,pruning,flowers,plants,herbal,dead wooding,garden tiding,pruning,stump removal services,garden pond work,dead wooding,commercial tree services,residential tree services" />
-		<meta name="keywords" content="mannuthy garden works,garden company,landscaping services,gardening services,landscaping company,pond services">
+		<meta name="keywords" content="mannuthy garden works,garden company,landscaping services,gardening services,landscaping company,pond services" />
 		<script src="js/jquery.min.js"></script> 
 		<script src="js/jquery.poptrox.min.js"></script> 
 		<script src="js/skel.min.js"></script> 
